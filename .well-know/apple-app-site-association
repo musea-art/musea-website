@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "br.art.musea.musea2",
+      "paths": ["/obras/*", "/exposicoes/*"]
+    }]
+  }
+}
